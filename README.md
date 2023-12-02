@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Git/GitHub, JavaScript & React
 - 💞️ I’m looking to collaborate on simple devs projects for training.
-- 📫 Contact me on linkedin or there !
+- 📫 Contact me on linkedin !
 
 <!---
 Voolgrimm/Voolgrimm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
